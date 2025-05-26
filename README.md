@@ -1,5 +1,15 @@
 <h1 align="center">B2B AI Automation Launcher</h1>
 
+## Project Overview:
+This project kickstarts a collaborative venture into the B2B SaaS world, merging automation, AI, and marketing into a lightweight MVP-ready web app. It’s designed for professionals who want to solve real business problems using stealth automation, intelligent workflows, and scalable web-based infrastructure — all without diving into consumer-facing chaos.
+
+Built for speed and flexibility, the project targets use cases like outreach automation, lead qualification, internal ops streamlining, or AI-driven data tools — anything that can deliver measurable value to businesses. The mission? Build fast, test faster, and scale what sticks.
+
+## Core Features:
+- **Rapid MVP Development:** Built using modular, battle-tested templates — get from idea to prototype in days, not weeks.
+- **B2B-Centric Automation:** Designed to solve high-leverage business problems through stealth and scalable systems.
+- **AI-Driven Capabilities:** Seamless integration of GPT-based flows, smart scrapers, and decision logic to mimic human effort intelligently.
+
 <div align="center">
   <img
     src="https://github.com/user-attachments/assets/d200549d-7613-446f-a43b-19a4117ca360"
@@ -62,16 +72,6 @@
 <span>
 
 <div align="left">
-
-## Project Overview:
-This project kickstarts a collaborative venture into the B2B SaaS world, merging automation, AI, and marketing into a lightweight MVP-ready web app. It’s designed for professionals who want to solve real business problems using stealth automation, intelligent workflows, and scalable web-based infrastructure — all without diving into consumer-facing chaos.
-
-Built for speed and flexibility, the project targets use cases like outreach automation, lead qualification, internal ops streamlining, or AI-driven data tools — anything that can deliver measurable value to businesses. The mission? Build fast, test faster, and scale what sticks.
-
-## Core Strengths:
-- **Rapid MVP Development:** Built using modular, battle-tested templates — get from idea to prototype in days, not weeks.
-- **B2B-Centric Automation:** Designed to solve high-leverage business problems through stealth and scalable systems.
-- **AI-Driven Capabilities:** Seamless integration of GPT-based flows, smart scrapers, and decision logic to mimic human effort intelligently.
 
 ## Features List:
 | Feature                | Description                                                              |
